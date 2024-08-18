@@ -143,9 +143,6 @@ main{
 .resume-download-cv{
     margin-top: 50px;
 }
-.hide{
-    display: none;
-}
 /* media query */
 @media screen and (max-width:576px) {
     .skilles-contener, .resume-container, .about-items, .banner{
